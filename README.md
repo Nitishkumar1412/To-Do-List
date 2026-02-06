@@ -4,6 +4,12 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 
 ---
 
+## 📸 Project Preview
+
+![To-Do List Preview](preview.png)
+
+---
+
 ## 🚀 Features
 - Add new tasks
 - Edit existing tasks
